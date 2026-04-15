@@ -11,7 +11,7 @@ export default function Footer() {
                 <div className="flex flex-wrap md:justify-end gap-x-12 gap-y-6">
                     <a className="text-xs font-extrabold uppercase tracking-widest text-gray-500 hover:text-[#E70013] transition-colors" href="#">Privacy Policy</a>
                     <a className="text-xs font-extrabold uppercase tracking-widest text-gray-500 hover:text-[#E70013] transition-colors" href="#">Terms of Service</a>
-                    <a className="text-xs font-extrabold uppercase tracking-widest text-gray-500 hover:text-[#E70013] transition-colors" href="#">About Tunisian AI</a>
+                    <a className="text-xs font-extrabold uppercase tracking-widest text-gray-500 hover:text-[#E70013] transition-colors" href="#">About Albanian AI</a>
                 </div>
             </div>
         </footer>
